@@ -1,0 +1,7 @@
+{
+  "name": "NoteFlow & Dialogue Cutter",
+  "description": "A sophisticated text editor with advanced folder management and a unique 'Dialogue Cutter' feature to extract and remove specific dialogue lines across multiple notes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
